@@ -9,15 +9,23 @@ The IE&E Program will ensure efficient service delivery that lowers administrati
 
 ### Goals
 Improve the customer experience in the following ways:
+
 ●	Provide a united application, determination, and enrollment experience that allows the customer to engage with the State through the channel of their choosing.
+
 ●	Facilitate a simple, user-friendly experience that allows the customer to maintain continuous benefits, services, or health coverage, especially during critical life transitions.
+
 ●	Ensure accurate and timely determination and notification of eligibility.
+
 ●	Deliver clear and concise information throughout the eligibility and enrollment process through the customer’s chosen method and language.
 
 An integrated IE&E technology system will also ensure:
+
 ●	Staff can serve Vermonters efficiently and effectively by maximizing focus on Case Management and Customer Service.
+
 ●	Vermont can meet Federal and State mandates and requirements.
+
 ●	Improved data integrity and robust access to data for analysis, reporting and modeling.
+
 ●	Financial integrity in the administration of benefit programs.
 
 ### Product Roadmap
@@ -43,12 +51,16 @@ The IE&E Program will also utilize an Agile development methodology, enabling ni
 
 **Ongoing** 
 *Healthcare Paper Application Usability* 
-●	Problem:  Healthcare paper applications contain essential information needed for staff to process health benefit eligibility determinations decisions. Currently, paper application forms are out of compliance with the Federal mandate to have a single application for all MAGI and non-MAGI healthcare programs. Additionally, the forms do not comply with plain language requirements, making it harder for applicants to complete the application correctly, often leading to requests for additional information which in turn causes processing delays.  
+
+●	Problem:  Healthcare paper applications contain essential information needed for staff to process health benefit eligibility determinations decisions. Currently, paper application forms are out of compliance with the Federal mandate to have a single application for all MAGI and non-MAGI healthcare programs. Additionally, the forms do not comply with plain language requirements, making it harder for applicants to complete the application correctly, often leading to requests for additional information which in turn causes processing delays. 
+
 ●	Vision:  A newly designed paper application, branded with VT logo and colors, that is easy for applicants to complete, enables full healthcare screening for both MAGI and non-MAGI based eligibility determinations, collects information needed for efficient and accurate eligibility decisions, and reduces data entry and processing time for staff.
 
-*Enterprise Content Management*: Align document scanning and indexing for MAGI health coverage programs with the other programs in scope for IE&E.
+*Enterprise Content Management*:
+Align document scanning and indexing for MAGI health coverage programs with the other programs in scope for IE&E.
 
 **Upcoming**
+
 *Customer Portal*: Single online portal allowing Vermonters to apply for and maintain benefits. This includes the ability to submit verification documents, to apply for coverage, and to report changes.
 
 *Business Intelligence*: Align data storage and reporting for MAGI health coverage programs with the other in-scope benefit programs for IE&E.
