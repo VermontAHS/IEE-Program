@@ -35,7 +35,7 @@ This is where we communicate our IE&E strategy and delivery plan.  The first col
 
 It is important to understand that the State’s roadmap will evolve over time as new information/experience is gained and the marketplace evolves. The roadmap outlined here represents the State's most current thinking which will be updated as planning and implementation unfolds.  
 
-Product Roadmap: https://github.com/VermontAHS/IEE-Roadmap/blob/master/IE%26E%20Roadmap%20052518.pdf
+[Product Roadmap](https://github.com/VermontAHS/IEE-Roadmap/blob/master/IE%26E%20Roadmap%20052518.pdf)
 
 
 ### Why We’ve Changed Our Approach
