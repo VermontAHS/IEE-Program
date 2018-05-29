@@ -49,7 +49,7 @@ The IE&E Program will put the business first, meaning we will clearly understand
 
 The IE&E Program will also take smaller financial risks by taking a modular approach to developing its solution, or breaking up requirements into smaller, more readily manageable chunks of work. This approach allows the IE&E Program to find the best vendor for a specific need while also reducing vendor lock-in, thus mitigating risk, all the while delivering value to users more rapidly. 
 
-The IE&E Program will also utilize an Agile development methodology, enabling nimble decision making as we learn and the ability to course-correct as we go, resulting in a greater opportunity to achieve our desired outcomes. This is an incremental approach to delivering value to users with their needs driving decisions is a bottom-up instead of top-down mindset. 
+The IE&E Program will also utilize an Agile development methodology, enabling nimble decision making as we learn and the ability to course-correct as we go, resulting in a greater opportunity to achieve our desired outcomes. This incremental approach to delivering value to users, with their needs driving decisions, is a bottom-up instead of top-down mindset. 
 
 
 ### Key Products  
