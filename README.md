@@ -62,14 +62,30 @@ The IE&E Program will also utilize an Agile development methodology, enabling ni
 
 - Vision:  A newly designed paper application, branded with VT logo and colors, that is easy for applicants to complete, enables full healthcare screening for both MAGI and non-MAGI based eligibility determinations, collects information needed for efficient and accurate eligibility decisions, and reduces data entry and processing time for staff.
 
-*Enterprise Content Management*:
-Align document scanning and indexing for MAGI health coverage programs with the other programs in scope for IE&E.
+*Enterprise Content Management*
+
+- Problem: Currently, Vermont eligibility and enrollment staff utilize two enterprise content management (ECM) systems for scanning, indexing, workflow and viewing Vermonters’ documentation and notices. This leads to operational inefficiencies, unnecessary maintenance & operations costs, and difficulty coordinating enrollee documentation across programs.
+
+- Vision: To utilize one system to scan, index, manage workflow, and view Vermonters’ documentation and notices. By utilizing only one system, ECM will create a streamlined experience and process for staff that is user-friendly and more efficient for the State to maintain. Training, documentation, and processes will be easier and faster resulting in less waste and improved quality.  
+
+*Customer Portal Phase I: Verification Documents*
+
+- Problem: Vermonters find satisfying verification requirements to be a challenging, time-consuming, and frustrating experience. For staff, verifying Vermonters’ income (and other requirements) routinely involves delays, stressful conversations, and duplicative work. Mail and paper slow the entire process from initial notification, to mailing documents, to scanning and indexing. Internal staff wait for Vermonters’ submission of required documentation such as pay stubs, employment forms, or attestations to process applications or changes, which lengthens the eligibility determination process.
+
+- Vision: To make it easier for Vermonters to submit- and staff to process- manual verification documentation. We will implement a technical solution which allows Vermonters to utilize mobile and online technology to submit verification documents and to automate the classification of these documents. This solution will improve the efficiency of the eligibility determination process and result in a better customer experience for Vermonters.  
+
+*Business Intelligence*
+
+- Problem: The current reporting system used by Vermont Health Connect (VHC) is expensive, complicated, and does not perform to our standards. It requires outside contractor expertise to support and is manually intensive and time consuming for State staff to maintain. It also means that VHC data is housed separately from the rest of IE&E Program data, which is in Microsoft SQL Server.  
+
+- Vision: To align data storage and reporting for MAGI health coverage programs with the other in-scope benefit programs for IE&E, by migrating the data from the OBIEE data warehouse to Microsoft SQL Server. The new system will be easier for staff to use, enable self-service, and allow for real-time reporting and analytics.  It will also be more affordable and enable in-house State of Vermont expertise to sustain support and maintenance of the solution.
 
 **Upcoming**
 
-*Customer Portal*: Single online portal allowing Vermonters to apply for and maintain benefits. This includes the ability to submit verification documents, to apply for coverage, and to report changes.
+*Customer Portal Phase II: Single Online Application*-
+A single, streamlined online application which will be used to apply for all healthcare and financial benefit programs in scope for the IE&E Program. 
 
-*Business Intelligence*: Align data storage and reporting for MAGI health coverage programs with the other in-scope benefit programs for IE&E.
-
+*Notices*-
+A notice system that provides timely, accurate information to Vermonters in a way that promotes action and understanding on their part. 
 
 
