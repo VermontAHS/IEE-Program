@@ -1,11 +1,19 @@
-# IE&E Roadmap
-## Vermont's Integrated Eligibility &amp; Enrollment Program Roadmap
+# Integrated Eligibility & Enrollment Program
 
-### Welcome!
-This website contains information about the Vermont Agency of Human Services' Integrated Eligibility and Enrollment (IE&E) modernization project. It is intended to provide a place where project participants and interested parties can keep track of the overall project goals, progress to date, and planned work. 
+> **Welcome!**
+> This website contains information about the Vermont Agency of Human Services' Integrated Eligibility and Enrollment (IE&E) modernization project. It is intended to provide a place where project participants and interested parties can keep track of the overall project goals, progress to date, and planned work.
+
+----
+
+_Contents:_
+
+[Vision](#vision) | [Goals](#goals) | [Product Roadmap](#product-roadmap) | [Our Approach](#our-approach) | [New Ways of Working](#new-ways-of-working) | [Technical Principles](#technical-principles) |
+
 
 ### Vision
-The IE&E Program will ensure efficient service delivery that lowers administrative costs, streamlines processes, and ensures the cost of system maintenance is sustainable over time. 
+We live in a world where...
+Eligible Vermonters have a simple and easy way to apply for, access, and maintain healthcare and financial benefits, without coverage gaps. We deliver these services efficiently and sustainably, using innovative ways of working and modern technology. 
+ 
 
 ### Goals
 *Improve the customer experience in the following ways:*
@@ -37,20 +45,17 @@ It is important to understand that the State’s roadmap will evolve over time a
 
 [IE&E Roadmap](https://app.mural.co/t/gsa6/m/gsa6/1516807702237/3904e0afe639bb309e29f6c84e35800ba3c22a45)
 
-
-### Why We’ve Changed Our Approach
-The State’s Integrated Eligibility & Enrollment (IE&E) Program is a multi-year business and technology transformation project which will streamline the eligibility and enrollment experience for health coverage and financial assistance programs incrementally. Many operational and technical inefficiencies exist today, leaving customers with an eligibility and enrollment experience that is often disjointed, uncoordinated, and burdensome. The current legacy system is inflexible, not designed with users in mind, expensive, and a challenge to enhance. The system is also out of compliance with federal mandates.  
-
-In the past, Vermont has taken a rather risky, big-bang approach to procuring IT solutions and that will change going forward. Because the former approach was all-encompassing, if we were to get it wrong, there wasn’t flexibility to make changes, and customers would suffer.
-
-
-### Our New Approach
+### Our Approach
 The IE&E Program will put the business first, meaning we will clearly understand the business problems and will build for the users, not pre-determine or force-feed a technical solution.  
 
 The IE&E Program will also take smaller financial risks by taking a modular approach to developing its solution, or breaking up requirements into smaller, more readily manageable chunks of work. This approach allows the IE&E Program to find the best vendor for a specific need while also reducing vendor lock-in, thus mitigating risk, all the while delivering value to users more rapidly. 
 
 The IE&E Program will also utilize an Agile development methodology, enabling nimble decision making as we learn and the ability to course-correct as we go, resulting in a greater opportunity to achieve our desired outcomes. This incremental approach to delivering value to users, with their needs driving decisions, is a bottom-up instead of top-down mindset. 
 
+### New Ways of Working
+"New ways of working" does not just refer to updating systems built long ago. It means that we are rethinking every aspect of our work and looking for opportunities to improve. This includes product management, risk mitigation, staffing, procurement, development methods, technology choices, oversight response, design, user engagement, vendor management, and more.
+
+We have already seen many benefits from these efforts and seek to spread these lessons throughout the State of Vermont wherever possible.
 
 ### Key Products  
 
@@ -87,5 +92,17 @@ A single, streamlined online application which will be used to apply for all hea
 
 *Notices*-
 A notice system that provides timely, accurate information to Vermonters in a way that promotes action and understanding on their part. 
+
+### Technical Principles
+
+•Build using Agile and iterative practices to deliver value frequently and incrementally
+•Default to Open
+•Default to Cloud
+•Default to open standards and formats to maximize extensibility and interoperability
+•Own and manage our data and business rules
+•Choose emergent architecture over ‘big up-front design’
+•Favor small components and loosely-coupled parts
+•Automate testing and deployments
+•Value experimentation and innovation
 
 
