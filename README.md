@@ -7,7 +7,7 @@
 
 _Contents:_
 
-[Vision](#vision) | [Goals](#goals) | [Product Roadmap](#product-roadmap) | [Our Approach](#our-approach) | [New Ways of Working](#new-ways-of-working) | [Technical Principles](#technical-principles) |
+[Vision](#vision) | [Goals](#goals) | [Product Roadmap](#product-roadmap) | [Our Approach](#our-approach) | [New Ways of Working](#new-ways-of-working) | [Technical Principles](#technical-principles) | [Key Products](#key-products) 
 
 
 ### Vision
@@ -57,6 +57,18 @@ The IE&E Program will also utilize an Agile development methodology, enabling ni
 
 We have already seen many benefits from these efforts and seek to spread these lessons throughout the State of Vermont wherever possible.
 
+### Technical Principles
+
+- Build using Agile and iterative practices to deliver value frequently and incrementally
+- Default to Open
+- Default to Cloud
+- Default to open standards and formats to maximize extensibility and interoperability
+- Own and manage our data and business rules
+- Choose emergent architecture over ‘big up-front design’
+- Favor small components and loosely-coupled parts
+- Automate testing and deployments
+- Value experimentation and innovation
+
 ### Key Products  
 
 **Ongoing** 
@@ -93,16 +105,6 @@ A single, streamlined online application which will be used to apply for all hea
 *Notices*-
 A notice system that provides timely, accurate information to Vermonters in a way that promotes action and understanding on their part. 
 
-### Technical Principles
 
-•Build using Agile and iterative practices to deliver value frequently and incrementally
-•Default to Open
-•Default to Cloud
-•Default to open standards and formats to maximize extensibility and interoperability
-•Own and manage our data and business rules
-•Choose emergent architecture over ‘big up-front design’
-•Favor small components and loosely-coupled parts
-•Automate testing and deployments
-•Value experimentation and innovation
 
 
