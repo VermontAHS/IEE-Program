@@ -11,7 +11,8 @@ _Contents:_
 
 
 ### Vision
-We live in a world where...
+*We live in a world where...*
+
 Eligible Vermonters have a simple and easy way to apply for, access, and maintain healthcare and financial benefits, without coverage gaps. We deliver these services efficiently and sustainably, using innovative ways of working and modern technology. 
  
 
@@ -100,4 +101,4 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 ### In-Scope Benefit Programs
 
-Explore the 26 AHS benefit programs that are in scope for this modernization work [here](https://github.com/VermontAHS/IEE-Program/blob/master/Benefit%20Programs)
+Explore the 26 AHS benefit programs that are in scope for this modernization effort [here](https://github.com/VermontAHS/IEE-Program/blob/master/Benefit%20Programs).
