@@ -46,16 +46,17 @@ It is important to understand that the State’s roadmap will evolve over time a
 [IE&E Roadmap](https://app.mural.co/t/gsa6/m/gsa6/1516807702237/3904e0afe639bb309e29f6c84e35800ba3c22a45)
 
 ### Our Approach
-The IE&E Program will put the business first, meaning we will clearly understand the business problems and will build for the users, not pre-determine or force-feed a technical solution.  
+The IE&E Program will put the needs of the user first. This means letting the business lead and ensuring we understand the problems we are trying to solve before building a solution. 
 
-The IE&E Program will also take smaller financial risks by taking a modular approach to developing its solution, or breaking up requirements into smaller, more readily manageable chunks of work. This approach allows the IE&E Program to find the best vendor for a specific need while also reducing vendor lock-in, thus mitigating risk, all the while delivering value to users more rapidly. 
+The IE&E Program will also take smaller financial risks by breaking up large technology projects into small, manageable chunks that deliver clear value to the end user. This approach allows the IE&E Program to find the best vendor to fill a specific need without getting locked in. 
 
-The IE&E Program will also utilize an Agile development methodology, enabling nimble decision making as we learn and the ability to course-correct as we go, resulting in a greater opportunity to achieve our desired outcomes. This incremental approach to delivering value to users, with their needs driving decisions, is a bottom-up instead of top-down mindset. 
-
+The IE&E Program will also utilize an Agile development methodology, which enables us to be nimbler as we make decisions and to course-correct as we go, resulting in a greater opportunity to achieve our desired outcomes. This incremental approach to delivering value to users, with their needs driving decisions, is a bottom-up instead of top-down mindset.
+ 
 ### New Ways of Working
 "New ways of working" does not just refer to updating systems built long ago. It means that we are rethinking every aspect of our work and looking for opportunities to improve. This includes product management, risk mitigation, staffing, procurement, development methods, technology choices, oversight response, design, user engagement, vendor management, and more.
 
 We have already seen many benefits from these efforts and seek to spread these lessons throughout the State of Vermont wherever possible.
+
 
 ### Technical Principles
 
