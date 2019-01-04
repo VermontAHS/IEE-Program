@@ -7,7 +7,7 @@
 
 _Contents:_
 
-[Vision](#vision) | [Goals](#goals) | [Product Roadmap](#product-roadmap) | [Our Approach](#our-approach) | [New Ways of Working](#new-ways-of-working) | [Technical Principles](#technical-principles) | [Key Products](#key-products) 
+[Vision](#vision) | [Goals](#goals) | [Product Roadmap](#product-roadmap) | [Our Approach](#our-approach) | [New Ways of Working](#new-ways-of-working) | [Technical Principles](#technical-principles) | [Key Products](#key-products) | [In-Scope Benefit Programs](#in-scope-benefit-programs) 
 
 
 ### Vision
@@ -97,3 +97,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 - Problem: The current reporting system used by Vermont Health Connect (VHC) is expensive, complicated, and does not perform to our standards. It requires outside contractor expertise to support and is manually intensive and time consuming for State staff to maintain. It also means that VHC data is housed separately from the rest of IE&E Program data, which is in Microsoft SQL Server.  
 
 - Vision: To align data storage and reporting for MAGI health coverage programs with the other in-scope benefit programs for IE&E, by migrating the data from the OBIEE data warehouse to Microsoft SQL Server. The new system will be easier for staff to use, enable self-service, and allow for real-time reporting and analytics. It will also be more affordable and enable in-house State of Vermont expertise to sustain support and maintenance of the solution.
+
+### In-Scope Benefit Programs
+
+Explore the 26 AHS benefit programs that are in scope for this modernization work [here](https://github.com/VermontAHS/IEE-Program/blob/master/Benefit%20Programs)
