@@ -1,7 +1,7 @@
 # Integrated Eligibility & Enrollment Program
 
 > **Welcome!**
-> This website contains information about the Vermont Agency of Human Services' Integrated Eligibility and Enrollment (IE&E) modernization project. It is intended to provide a place where project participants and interested parties can keep track of the overall project goals, progress to date, and planned work.
+> This website contains information about the Vermont Agency of Human Services' Integrated Eligibility and Enrollment (IE&E) modernization program. It is intended to provide a place where program participants and interested parties can keep track of the overall program goals, progress to date, and planned work.
 
 ----
 
