@@ -101,4 +101,4 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 ### In-Scope Benefit Programs
 
-Explore the 26 AHS benefit programs that are in scope for this modernization effort [here](https://github.com/VermontAHS/IEE-Program/blob/master/Benefit%20Programs).
+Explore the 30 AHS benefit programs that are in scope for this modernization effort [here](https://github.com/VermontAHS/IEE-Program/blob/master/Benefit%20Programs%20In%20Scope.pdf).
