@@ -87,7 +87,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 - Vision: To utilize one system to scan, index, manage workflow, and view Vermonters’ documentation and notices. By utilizing only one system, ECM will create a streamlined experience and process for staff that is user-friendly and more efficient for the State to maintain. Training, documentation, and processes will be easier and faster resulting in less waste and improved quality.  
 
-*Customer Portal Phase I: Verification Documents*
+[*Customer Portal Phase I: Verification Documents*](https://github.com/VermontAHS/IEE-Program/blob/master/Customer%20Portal%20Phase%201%20Charter_April2019.pdf)
 
 - Problem: Vermonters find satisfying verification requirements to be a challenging, time-consuming, and frustrating experience. For staff, verifying Vermonters’ income (and other requirements) routinely involves delays, stressful conversations, and duplicative work. Mail and paper slow the entire process from initial notification, to mailing documents, to scanning and indexing. Internal staff wait for Vermonters’ submission of required documentation such as pay stubs, employment forms, or attestations to process applications or changes, which lengthens the eligibility determination process.
 
