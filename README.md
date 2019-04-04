@@ -75,13 +75,13 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 **Ongoing** 
 
-*Healthcare Paper Application Usability*
+]*Healthcare Paper Application Usability*](https://github.com/VermontAHS/IEE-Program/blob/master/HCAUCharter_April2019.pdf)
 
 - Problem:  Healthcare paper applications contain essential information needed for staff to process health benefit eligibility determinations decisions. Currently, paper application forms are out of compliance with the Federal mandate to have a single application for all MAGI and non-MAGI healthcare programs. Additionally, the forms do not comply with plain language requirements, making it harder for applicants to complete the application correctly, often leading to requests for additional information which in turn causes processing delays. 
 
 - Vision:  A newly designed paper application, branded with VT logo and colors, that is easy for applicants to complete, enables full healthcare screening for both MAGI and non-MAGI based eligibility determinations, collects information needed for efficient and accurate eligibility decisions, and reduces data entry and processing time for staff.
 
-*Enterprise Content Management*
+[*Enterprise Content Management*](https://github.com/VermontAHS/IEE-Program/blob/master/ECMCharter_April2019.pdf)
 
 - Problem: Currently, Vermont eligibility and enrollment staff utilize two enterprise content management (ECM) systems for scanning, indexing, workflow and viewing Vermonters’ documentation and notices. This leads to operational inefficiencies, unnecessary maintenance & operations costs, and difficulty coordinating enrollee documentation across programs.
 
@@ -93,7 +93,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 - Vision: To make it easier for Vermonters to submit- and staff to process- manual verification documentation. We will implement a technical solution which allows Vermonters to utilize mobile and online technology to submit verification documents and to automate the classification of these documents. This solution will improve the efficiency of the eligibility determination process and result in a better customer experience for Vermonters.  
 
-*Business Intelligence*
+[*Business Intelligence*](https://github.com/VermontAHS/IEE-Program/blob/master/BusinessIntelligenceCharter_April2019.pdf)
 
 - Problem: The current reporting system used by Vermont Health Connect (VHC) is expensive, complicated, and does not perform to our standards. It requires outside contractor expertise to support and is manually intensive and time consuming for State staff to maintain. It also means that VHC data is housed separately from the rest of IE&E Program data, which is in Microsoft SQL Server.  
 
