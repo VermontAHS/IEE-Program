@@ -75,7 +75,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 **Ongoing** 
 
-[*Customer Portal Phase II: Online Application*] 
+*Customer Portal Phase II: Online Application*
 
 - Problem: Vermonters trying to apply for healthcare and financial assistance programs find the process to be difficult because it is time consuming, confusing to know where (digital systems or offices) to apply, what to apply for, and need to have multiple accounts and passwords. Each program has different timelines, requirements, and processes which are not tracked in one place. There is no centralized location for Vermonters to apply for State benefits. As a result, Vermonters must repeat the same information multiple times to different State offices simply to apply.
 
