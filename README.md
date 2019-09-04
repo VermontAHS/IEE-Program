@@ -75,13 +75,13 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 **Ongoing** 
 
-*Customer Portal Phase II: Online Application*
+[*Customer Portal Phase II: Online Application*](https://github.com/VermontAHS/IEE-Program/blob/master/Customer%20Portal%20Phase%202%20Charter_June%202019.pdf)
 
 - Problem: Vermonters trying to apply for healthcare and financial assistance programs find the process to be difficult because it is time consuming, confusing to know where (digital systems or offices) to apply, what to apply for, and need to have multiple accounts and passwords. Each program has different timelines, requirements, and processes which are not tracked in one place. There is no centralized location for Vermonters to apply for State benefits. As a result, Vermonters must repeat the same information multiple times to different State offices simply to apply.
 
 - Vision: To develop a modern, integrated eligibility and enrollment customer portal that provides Vermonters with a single sign-on service allowing them to easily apply to multiple benefit programs to help meet their basic needs. Utilizing agile development, modular procurements, and agile product teams, AHS IE&E has the goal of implementing an online application that not only meets State and federal standards but is user friendly for customers and staff. The technical solution should be hosted and maintained by the State.
 
-*Premium Processing*
+[*Premium Processing*](https://github.com/VermontAHS/IEE-Program/blob/master/Premium%20Processing%20Charter_June%202019.pdf)
 
 - Problem: Vermonters don’t always understand what they need to pay, by when, and how it will impact their coverage. They often do not know who to call when there is a problem. Data inconsistencies, transaction errors, and premium allocation issues make it difficult for staff to understand the information they are seeing and accurately communicate case status to customers. As a result of these issues, the Vermont Legislature has instructed the State to return Qualified Health Plan (QHP) premium processing to insurance carriers. This change will be effective for plan year 2021. Vermont is also out of compliance with State Medicaid rules regarding noticing for late premium payment and termination for nonpayment.
 
