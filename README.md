@@ -107,7 +107,7 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 **Completed**
 
-[*Healthcare Paper Application Usability*](https://github.com/VermontAHS/IEE-Program/blob/master/HCAUCharter_April2019.pdf)
+[*Healthcare Paper Application Usability*](https://github.com/VermontAHS/IEE-Program/blob/master/HCAU%20Charter_April%202019.pdf)
 
 - Problem:  Healthcare paper applications contain essential information needed for staff to process health benefit eligibility determinations decisions. Currently, paper application forms are out of compliance with the Federal mandate to have a single application for all MAGI and non-MAGI healthcare programs. Additionally, the forms do not comply with plain language requirements, making it harder for applicants to complete the application correctly, often leading to requests for additional information which in turn causes processing delays.
 
