@@ -87,12 +87,6 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 - Vision: To streamline the financial transactions and processes associated with the administration of health coverage and financial benefit programs as a part of the overall IE&E roadmap. This project will occur over a period of three years and capabilities will be delivered in multiple increments. The State will first transition responsibility for Qualified Health Plan premium processing to insurance carriers for coverage starting 1/1/2021. This will allow the State to implement the manual processes necessary to appropriately dun and terminate Medicaid (Dr. Dynasaur) coverage for nonpayment. 
 
-[*Business Intelligence*](https://github.com/VermontAHS/IEE-Program/blob/master/BusinessIntelligenceCharter_April2019.pdf)
-
-- Problem: The current reporting system used by Vermont Health Connect (VHC) is expensive, complicated, and does not perform to our standards. It requires outside contractor expertise to support and is manually intensive and time consuming for State staff to maintain. It also means that VHC data is housed separately from the rest of IE&E Program data, which is in Microsoft SQL Server.  
-
-- Vision: To align data storage and reporting for MAGI health coverage programs with the other in-scope benefit programs for IE&E, by migrating the data from the OBIEE data warehouse to Microsoft SQL Server. The new system will be easier for staff to use, enable self-service, and allow for real-time reporting and analytics. It will also be more affordable and enable in-house State of Vermont expertise to sustain support and maintenance of the solution.
-
 **Completed**
 
 [*Healthcare Paper Application Usability*](https://github.com/VermontAHS/IEE-Program/blob/master/HCAU%20Charter_April%202019.pdf)
