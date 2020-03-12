@@ -93,12 +93,6 @@ We have already seen many benefits from these efforts and seek to spread these l
 
 - Vision: To utilize one system to scan, index, manage workflow, and view Vermonters’ documentation and notices. By utilizing only one system, ECM will create a streamlined experience and process for staff that is user-friendly and more efficient for the State to maintain. Training, documentation, and processes will be easier and faster resulting in less waste and improved quality.  
 
-[*Customer Portal Phase I: Document Uploader*](https://github.com/VermontAHS/IEE-Program/blob/master/Customer%20Portal%20Phase%201%20Charter_February%202019.pdf)
-
-- Problem: Vermonters find satisfying verification requirements to be a challenging, time-consuming, and frustrating experience. For staff, verifying Vermonters’ income (and other requirements) routinely involves delays, stressful conversations, and duplicative work. Mail and paper slow the entire process from initial notification, to mailing documents, to scanning and indexing. Internal staff wait for Vermonters’ submission of required documentation such as pay stubs, employment forms, or attestations to process applications or changes, which lengthens the eligibility determination process.
-
-- Vision: To make it easier for Vermonters to submit- and staff to process- manual verification documentation. We will implement a technical solution which allows Vermonters to utilize mobile and online technology to submit verification documents and to automate the classification of these documents. This solution will improve the efficiency of the eligibility determination process and result in a better customer experience for Vermonters.  
-
 [*Business Intelligence*](https://github.com/VermontAHS/IEE-Program/blob/master/BusinessIntelligenceCharter_April2019.pdf)
 
 - Problem: The current reporting system used by Vermont Health Connect (VHC) is expensive, complicated, and does not perform to our standards. It requires outside contractor expertise to support and is manually intensive and time consuming for State staff to maintain. It also means that VHC data is housed separately from the rest of IE&E Program data, which is in Microsoft SQL Server.  
@@ -112,6 +106,12 @@ We have already seen many benefits from these efforts and seek to spread these l
 - Problem:  Healthcare paper applications contain essential information needed for staff to process health benefit eligibility determinations decisions. Currently, paper application forms are out of compliance with the Federal mandate to have a single application for all MAGI and non-MAGI healthcare programs. Additionally, the forms do not comply with plain language requirements, making it harder for applicants to complete the application correctly, often leading to requests for additional information which in turn causes processing delays.
 
 - Vision:  A newly designed paper application, branded with VT logo and colors, that is easy for applicants to complete, enables full healthcare screening for both MAGI and non-MAGI based eligibility determinations, collects information needed for efficient and accurate eligibility decisions, and reduces data entry and processing time for staff.
+
+[*Customer Portal Phase I: Document Uploader*](https://github.com/VermontAHS/IEE-Program/blob/master/Customer%20Portal%20Phase%201%20Charter_February%202019.pdf)
+
+- Problem: Vermonters find satisfying verification requirements to be a challenging, time-consuming, and frustrating experience. For staff, verifying Vermonters’ income (and other requirements) routinely involves delays, stressful conversations, and duplicative work. Mail and paper slow the entire process from initial notification, to mailing documents, to scanning and indexing. Internal staff wait for Vermonters’ submission of required documentation such as pay stubs, employment forms, or attestations to process applications or changes, which lengthens the eligibility determination process.
+
+- Vision: To make it easier for Vermonters to submit- and staff to process- manual verification documentation. We will implement a technical solution which allows Vermonters to utilize mobile and online technology to submit verification documents and to automate the classification of these documents. This solution will improve the efficiency of the eligibility determination process and result in a better customer experience for Vermonters.  
 
 ### In-Scope Benefit Programs
 
