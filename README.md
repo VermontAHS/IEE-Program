@@ -44,7 +44,7 @@ This is where we communicate our IE&E strategy and delivery plan. On the the lef
 
 It is important to understand that the State’s roadmap will evolve over time as new information/experience is gained and the marketplace evolves. The roadmap outlined here represents the State's most current thinking which will be updated as planning and implementation unfolds.  
 
-As of March 2020, our roadmap is currently under construction and will be updated here soon.
+As of August 2020, our roadmap is currently under construction and will be updated here soon.
 
 ### Our Approach
 The IE&E Program will put the needs of the user first. This means letting the business lead and ensuring we understand the problems we are trying to solve before building a solution. 
